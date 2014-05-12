@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Inclinometer Kalman Filter Demo</string>
+    <string name="accelHeader">Accelerometer Data:</string>
+    <string name="action_settings">Settings</string>
+	<string name="ahrsAccelHeader">Accelerometer Pitch</string>
+	<string name="ahrsGyroHeader">Gyroscope Pitch</string>
+	<string name="ahrsKalmanHeader">Kalman Filtered Pitch</string>
+	<string name="ahrsDesc">An AHRS indicator of pitch angle.</string>
+	<string name="gyroHeader">Gyroscope Data:</string>
+	<string name="kalmanHeader">Kalman Data:</string>
+</resources>
